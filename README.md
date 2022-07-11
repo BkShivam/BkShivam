@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Shivam
+- 👀 I’m interested to share and get coding concepts. ...
+- 🌱 I’m currently learning Unix & Java...
+- 💞️ I’m looking to collaborate on Unix, Java & PL/SQL ...
+
+<!---
+BkShivam/BkShivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
